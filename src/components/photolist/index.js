@@ -1,5 +1,5 @@
 import React, { useState }from 'react'
-import Modal from '../modal/index'
+import Modal from '../Modal/index'
 
 //const [currentPhoto, setCurrentPhoto] = useState()
 
